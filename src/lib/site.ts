@@ -1,4 +1,4 @@
-export const SITE_URL = "https://stamply.app";
+export const SITE_URL = "https://stamply.darthcassan.com";
 export const SITE_NAME = "Stamply";
 export const SITE_DESCRIPTION =
   "Free Unix timestamp converter. Convert epoch seconds and milliseconds to human-readable dates in UTC and local time.";
